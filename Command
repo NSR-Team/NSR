@@ -1,0 +1,4 @@
+# git clone https://github.com/NSR-Team/NSR.git
+# cd NSR
+# git pull
+# python free.pyc
